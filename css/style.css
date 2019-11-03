@@ -1,0 +1,60 @@
+/* Configurações gerais */
+h1 {
+  color: #373839;
+}
+
+h2 {
+  color: #5b5e62;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  color: #4F5153;
+}
+
+/* Configuração dos ícones de deletar e editar */
+.img-size {
+  width: 4vw;
+  height: 4vh;
+}
+
+/* Configurações das âncoras */
+.anchor-color {
+  color: #4F5153;
+}
+
+.anchor-color:hover, .anchor-color:focus {
+  color: #4F5153;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+}
+
+/* Configuração dos botões voltar */
+.btn-color {
+  border: 1px solid #E3DDDD;
+  background-color: #F7F7F7;
+}
+
+/* Configurações dos formulários */
+form label {
+  font-weight: bold;
+}
+
+.bg-color {
+  background-color: #EEE;
+}
+
+.form-control, .btn {
+  border-radius: 0;
+}
+
+.main-form-size {
+  max-height: 700px;
+}
+
+.edit-form-size {
+  max-height: 1200px;
+}
