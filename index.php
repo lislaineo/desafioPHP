@@ -1,7 +1,7 @@
 <?php
 	session_start();	
-	include('variables.php');
-	include('functions.php');
+	include('config/variables.php');
+	include('config/functions.php');
 	
 	//Início das validações de cadastro
 	if ($_POST) {
